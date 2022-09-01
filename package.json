@@ -1,5 +1,6 @@
 {
   "name": "@electron-builder/monorepo",
+  "version": "7d606af-hack",
   "private": true,
   "license": "MIT",
   "lint-staged": {
